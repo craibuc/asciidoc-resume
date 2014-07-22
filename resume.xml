@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" lang="en">
+<articleinfo>
+<title>Craig Buchanan</title>
+<date>26-JUN-2014 14:47</date>
+<author>
+<firstname>Craig</firstname>
+
+<surname>Buchanan</surname>
+<email>craig.buchanan@cogniza.com</email>
+</author>
+
+<authorinitials>CB</authorinitials>
+<revhistory>
+<revision>
+<revnumber>0.1.0</revnumber>
+<date>26-JUN-2014 14:47</date>
+<authorinitials>CB</authorinitials>
+
+</revision>
+</revhistory>
+
+
+
+</articleinfo>
+<section id="_summary">
+<title>Summary</title>
+<simpara><emphasis role="strong">Epic-certified, business-intelligence consultant</emphasis></simpara>
+<simpara>Mr. Buchanan is a seasoned software-professional who has a proven history of rapidly delivering solutions to variety of complex problems.  Articulate.  Creative.  Focused.</simpara>
+</section>
+<section id="_metadata">
+<title>Metadata</title>
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="2">
+    
+    <colspec colname="col_1" colwidth="33*"/>
+    
+    <colspec colname="col_2" colwidth="66*"/>
+    
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="icon">✉</phrase></simpara></entry>
+        
+        <entry align="left" valign="top"><simpara><ulink url="mailto:craig.buchanan@cogniza.com">craig.buchanan@cogniza.com</ulink></simpara></entry>
+        
+      </row>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara>☎︎</simpara></entry>
+        
+        <entry align="left" valign="top"><simpara>+1.612.293.7363</simpara></entry>
+        
+      </row>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="icon">ℹ</phrase></simpara></entry>
+        
+        <entry align="left" valign="top"><simpara><ulink url="http://www.cogniza.com">www.cogniza.com</ulink></simpara></entry>
+        
+      </row>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara>⟳</simpara></entry>
+        
+        <entry align="left" valign="top"><simpara>0.1.0 (2014-07-15 19:11:16 CDT)</simpara></entry>
+        
+      </row>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><inlinemediaobject>
+  <imageobject>
+    <imagedata fileref="./images/linkedin.jpg"/>
+  </imageobject>
+  <textobject><phrase>linkedin</phrase></textobject>
+</inlinemediaobject></simpara></entry>
+        
+        <entry align="left" valign="top"><simpara><ulink url="https://www.linkedin.com/in/buchanancraig">linkedin.com/in/buchanancraig</ulink></simpara></entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+</section>
+<section id="_timeline">
+<title>Timeline</title>
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.umms.org">University of Maryland Medical System (UMMS)</ulink><?asciidoc-br?>
+<phrase role="location">Baltimore, MD</phrase>; <phrase role="dates">01/2011 - 08/2013</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">ASAP</phrase> <phrase role="tag">Beaker</phrase> <phrase role="tag">ClinDoc</phrase> <phrase role="tag">EpiCare Inpatient</phrase> <phrase role="tag">OpTime</phrase> <phrase role="tag">Radiant</phrase> <phrase role="tag">Resolute (HB)</phrase> <phrase role="tag">Willow</phrase> <phrase role="tag">Crystal Reports</phrase> <phrase role="tag">BusinessObjects</phrase> <phrase role="tag">Xcelsius</phrase> <phrase role="tag">Oracle</phrase> <phrase role="tag">PL/SQL</phrase> <phrase role="tag">MediaWiki</phrase> <phrase role="tag">QuickBase</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Developed dozens of reports for case-management, ClinDoc, ED, laboratory, psychology, and therapy departments.</simpara>
+</listitem>
+<listitem>
+<simpara>Deveoped a paramaterized ED “dashboard” and the Oracle “derived table” that supports it.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed Oracle components to support and simplify reports.</simpara>
+</listitem>
+<listitem>
+<simpara>Assisted in BusinessObjects Enterprise administration.</simpara>
+</listitem>
+<listitem>
+<simpara>Prototyped dashboards with Xcelsius and QAAWS.</simpara>
+</listitem>
+<listitem>
+<simpara>Managed the semantic layer (BusinessViews) that supported the reports’ dynamic/cascading parameters.</simpara>
+</listitem>
+<listitem>
+<simpara>Implemented a report-documentation system using <ulink url="https://www.mediawiki.org">MediaWiki</ulink>.</simpara>
+</listitem>
+<listitem>
+<simpara>Managed team&#8217;s report-inventory system.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.fairview.org/">Fairview Health Services</ulink><?asciidoc-br?>
+<phrase role="location">Minneapolis, MN;</phrase> <phrase role="dates">02/2010-12/2011</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">Cadence</phrase> <phrase role="tag">ClinDoc</phrase> <phrase role="tag">Resolute (PB)</phrase> <phrase role="tag">Crystal Reports</phrase> <phrase role="tag">Oracle</phrase> <phrase role="tag">PL/SQL</phrase> <phrase role="tag">QlikView</phrase> <phrase role="tag">Web Intelligence</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Supported the Accountable-Care-Organization (ACO) initiatives.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed Cadence and Resolute (PB) reports.</simpara>
+</listitem>
+<listitem>
+<simpara>Designed executive-level dashboards.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed BusinessObjects Universe, Web Intelligence, and Oracle-based ETL components to support dashboards.</simpara>
+</listitem>
+<listitem>
+<simpara>Prototyped dashboards with <ulink url="https://qlikview.com/">QlikView</ulink>.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.ssmhc.org/">SSM Health Care</ulink><?asciidoc-br?>
+<phrase role="location">St. Louis, MO;</phrase> <phrase role="dates">08/2009 - 12/2009</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">ADT</phrase> <phrase role="tag">ClinDoc</phrase> <phrase role="tag">EpiCare Inpatient</phrase> <phrase role="tag">Stork</phrase> <phrase role="tag">Crystal Reports</phrase> <phrase role="tag">MSSQL</phrase> <phrase role="tag">T/SQL</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Developed EpiCare Inpatient and Stork reports.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed a “derived table” that provides a unified view of the departmental transfers, including time in the ED.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed database components to simplify the Clarity data model for deliveries and flowsheets.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://mortgagecadence.com/">Dexma</ulink><?asciidoc-br?>
+<phrase role="location">Minneapolis, MN</phrase>; <phrase role="dates">10/2009 – 01/2010</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">ADT</phrase> <phrase role="tag">BusinessObjects SDK</phrase> <phrase role="tag">Java</phrase> <phrase role="tag">Universe SDK</phrase> <phrase role="tag">Web-Intelligence SDK</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Developed a Java utility to simplify the deployment of Universes and Web-Intelligence (WebI) templates.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://mn.gov/commerce/">Minnesota Department of Revenue</ulink><?asciidoc-br?>
+<phrase role="location">St. Paul, MN</phrase>; <phrase role="dates">01/2009 – 10/2009</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">Crystal Reports</phrase> <phrase role="tag">Oracle</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Developed reports for their permit-management system.</simpara>
+</listitem>
+<listitem>
+<simpara>Designed an enhancement to the system that allowed them to have more accurate reporting.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://mn.gov/commerce/">Wells Fargo Home Mortgage</ulink><?asciidoc-br?>
+<phrase role="location">Minneapolis, MN</phrase>; <phrase role="dates">10/2007 - 12/2008</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">Crystal Reports</phrase> <phrase role="tag">BusinessObjects SDK</phrase> <phrase role="tag">MSSQL</phrase> <phrase role="tag">T-SQL</phrase> <phrase role="tag">VB .Net</phrase> <phrase role="tag">SharePoint</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Developed reports for their permit-management system.</simpara>
+</listitem>
+<listitem>
+<simpara>Designed an enhancement to the system that allowed them to have more accurate reporting.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.mortenson.com/">M.A. Mortenson</ulink><?asciidoc-br?>
+<phrase role="location">Minneapolis, MN</phrase>; <phrase role="dates">12/2005 - 01/2006</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">Crystal Reports</phrase> <phrase role="tag">MSSQL</phrase> <phrase role="tag">T-SQL</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Designed and developed reporting database and SQL Server components necessary to meet the client’s OSHA reporting needs.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.affinityfcu.org/">Affinity Federal Credit Union</ulink><?asciidoc-br?>
+<phrase role="location">St. Paul, MN</phrase>; <phrase role="dates">Multiple engagements</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">ADT</phrase> <phrase role="tag">BusinessObjects SDK</phrase> <phrase role="tag">Java</phrase> <phrase role="tag">Universe SDK</phrase> <phrase role="tag">Web-Intelligence SDK</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Developed a Java utility to simplify the deployment of Universes and Web-Intelligence (WebI) templates.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.allinahealth.org/">Allina Hospital &amp; Clinics</ulink><?asciidoc-br?>
+<phrase role="location">Minneapolis, MN;</phrase> <phrase role="dates">12/2004 – 11/2005</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">ADT</phrase> <phrase role="tag">ClinDoc</phrase> <phrase role="tag">EpiCare Inpatient</phrase> <phrase role="tag">OpTime</phrase> <phrase role="tag">Willow (PB)</phrase> <phrase role="tag">Crystal Reports</phrase> <phrase role="tag">BusinessObjects</phrase> <phrase role="tag">Oracle</phrase> <phrase role="tag">PL/SQL</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Rapidly became a technical expert on Clarity’s CliniDoc, ADT, Rx and Optime modules without any formalized training.</simpara>
+</listitem>
+<listitem>
+<simpara>Used his new-found expertise to assist Epic Systems’ effort to improve the usability of Clarity’s data model.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed Oracle components to simplify reporting on Clarity’s data.</simpara>
+</listitem>
+<listitem>
+<simpara>Authored Oracle components to simplify reporting on Admissions, Discharges and Transfers (ADT).  Simplification included removing bed transfers and adding hospital-outpatient visits.</simpara>
+</listitem>
+<listitem>
+<simpara>Authored Oracle components to simplify reporting on flowsheet data, which included converting selected flowsheet rows into columns.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed a customization for Crystal Enterprise 10 and XI’s ePortfolio to allow a report to be scheduled once with a large data set, but filtered by its parameters when viewed.  This customization is called View-Time Parameters.</simpara>
+</listitem>
+<listitem>
+<simpara>Authored a Microsoft Access-based application to track reporting projects.  Created a component to extract a report’s metadata.</simpara>
+</listitem>
+<listitem>
+<simpara>Authored knowledge-base files for Crystal Reports, Epic Care, and Oracle.</simpara>
+</listitem>
+<listitem>
+<simpara>Mentored staff in the use of Crystal Reports, Crystal Enterprise, and Oracle.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<simpara role="ellipse">&#8230;</simpara>
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.pillsbury.com/">Pillbury</ulink><?asciidoc-br?>
+<phrase role="location">Minneapolis, MN</phrase>; <phrase role="dates">01/2001 - 03/2003</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">Crystal Reports</phrase> <phrase role="tag">Crystal Enterprise</phrase> <phrase role="tag">Remedy</phrase> <phrase role="tag">MSSQL</phrase> <phrase role="tag">SSAS</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Designed and implemented an executive reporting system using Seagate Info 7.  The system allowed business managers to monitor strategic (BPM, KPI), tactical and operational aspects of their Remedy-based IT Systems Management system (<ulink url="http://www.viadyne.com/">Viadyne</ulink>’s viaTIL).</simpara>
+</listitem>
+<listitem>
+<simpara>Designed a Total Cost of Ownership and ROI prototype using SQL Server 2000 Analysis Services, Crystal Analysis 8.5 and Crystal Enterprise 8.5.</simpara>
+</listitem>
+<listitem>
+<simpara>Designed a user-function library (<ulink url="http://www.cogniza.com/wordpress/products/ufltimezone/">UFLTimeZone</ulink>) that enables Crystal Reports work effectively with multiple timezones.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.umn.edu/">University of Minnesota</ulink><?asciidoc-br?>
+<phrase role="location">Minneapolis, MN</phrase>; <phrase role="dates">Multiple engagements</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">Crystal Reports</phrase> <phrase role="tag">Crystal Reports SDK</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Responsible for assessing the effects that an upgrade of the client’s facility management system would have on their enterprise reporting.  <phrase role="underline">Project was estimated to take three weeks to complete; project completed in three days.</phrase></simpara>
+</listitem>
+<listitem>
+<simpara>Developing a component that extracted key properties of each report, then storing this information in a database.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+<informaltable frame="all"
+    rowsep="1" colsep="1">
+  
+  <tgroup cols="1">
+    
+    <colspec colname="col_1" colwidth="*"/>
+    
+    
+    <thead>
+      
+      <row>
+        
+        <entry align="left" valign="top"><ulink url="http://www.baxter.com/">Baxter</ulink><?asciidoc-br?>
+<phrase role="location">Waukegan, IL</phrase>; <phrase role="dates">Multiple engagements</phrase></entry>
+        
+      </row>
+      
+    </thead>
+    
+    <tfoot>
+      
+      <row>
+        
+        <entry align="left" valign="top"><simpara><phrase role="tag">Crystal Reports</phrase> <phrase role="tag">Seagate Infor</phrase> <phrase role="tag">Oracle</phrase></simpara></entry>
+        
+      </row>
+      
+    </tfoot>
+    
+    <tbody>
+      
+      <row>
+        
+        <entry align="left" valign="top"><itemizedlist>
+<listitem>
+<simpara>Implemented Seagate Info 7.</simpara>
+</listitem>
+<listitem>
+<simpara>Developed management reports for their ERP system (HSD’s DIAMOND).</simpara>
+</listitem>
+<listitem>
+<simpara>Developed numerous Oracle functions and procedures to supply the report with data.</simpara>
+</listitem>
+</itemizedlist>
+</entry>
+        
+      </row>
+      
+    </tbody>
+    
+  </tgroup>
+</informaltable>
+
+</section>
+<section id="_education">
+<title>Education</title>
+<itemizedlist>
+<listitem>
+<simpara>MBA - University of Minnesota - Curtis L. Carlson School of Management, Management Information Systems</simpara>
+</listitem>
+<listitem>
+<simpara>BBA - University of Wisconsin - Madison, Finance</simpara>
+</listitem>
+</itemizedlist>
+
+</section>
+</article>

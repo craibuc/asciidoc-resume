@@ -1,0 +1,186 @@
+/* Color Definitions */
+.darkBlue {
+	color: #284777;	
+}
+.mediumBlue {
+	color: #3F6CAE;	
+}
+.red {
+	color: #B93A3C;	
+}
+.tan {
+	color: #EAE8D9;	
+}
+.gray {
+	color: #EFEFEF;	
+}
+
+/* Style Definitions */
+body,p,td {
+	font-family: "Avenir Book","Cambria";
+	font-size: 10.0pt;
+}
+
+p {
+	margin: 0in;
+	margin-bottom: .0001pt;
+}
+
+h1 {
+	margin-top: 24.0pt;
+	margin-right: 0in;
+	margin-bottom: 0in;
+	margin-left: 0in;
+	margin-bottom: .0001pt;
+	font-size: 26.0pt;
+	font-family: "Calibri";
+	font-weight: normal;
+	color: #13274A;
+	text-transform: uppercase;
+	border-bottom: 1px solid #3F6CAE;
+}
+
+h2 {
+	margin-top: 6.0pt;
+	margin-right: 0in;
+	margin-bottom: 6.0pt;
+	margin-left: 0in;
+	border: none;
+	padding: 0in;
+	text-transform: uppercase;
+	font-size: 20.0pt;
+	font-family: "Calibri";
+/*	font-weight: normal;*/
+	color: #284777;
+	border-bottom: 1px solid #3F6CAE;
+}
+
+/* Table Definitions */
+table {
+	border: 1px;
+	border-color: #3F6CAE;
+	border-spacing: 5px;
+	margin-bottom: 6.0pt;
+}
+
+thead {
+	border: 1px solid #333;
+	border-color: 	#3F6CAE;
+	text-align: left;
+	background-color: #EAE8D9;
+	font-family:"Avenir Book";
+}
+tbody{}
+tfoot{}
+
+/* List Definitions */
+ul {
+	padding-left:16px; 
+	margin-top:0.0in;	
+	margin-bottom:0.0in;
+	list-style-type: circle;
+}
+
+/* Links */
+a {
+	color:blue;
+	text-decoration:underline;
+	font-weight: normal;
+}
+
+/*a:link {color:blue;
+	text-decoration:underline;
+}
+a:visited {
+	color:purple;
+	text-decoration:underline;
+}
+*/
+
+/* Spans */
+div.paragraph.ellipse p {
+	color: #284777;
+	font-family: "Avenir Book";
+	font-weight: bold;
+	font-size: 20.0pt;
+	text-align: center;
+
+	padding: 0;
+  margin: 0;
+		
+/*	margin-top: 0.0pt;
+	margin-bottom: 6.0pt;
+*/}
+
+span.icon {
+	font-size: 14.0pt;
+	font-family: "Wingdings";
+}
+	
+span.on {
+	color: #3F6CAE;
+	font-size: 12.0pt;
+	font-family: "Cambria";
+}
+
+span.off {
+	color: #EAE8D9;;
+	font-size: 12.0pt;
+	font-family: "Cambria";
+}
+
+span.title {
+	text-transform: uppercase;
+	color: #3F6CAE;
+}
+
+span.location, .dates {
+	font-family: "Avenir Book";
+	font-size: 9.0pt;
+	font-weight: normal;
+}
+
+span.tag {
+	
+	color: #B93A3C;
+	background-color: #EFEFEF;
+	
+	line-height: 26px;
+
+	box-sizing: border-box;
+	
+	border-top-color: #E2E2E2;
+	border-bottom-color: #E2E2E2;
+	border-left-color: #E2E2E2;
+	border-right-color: #E2E2E2;
+
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
+
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-width: 1px;
+
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;
+
+	padding-bottom: 1px;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-top: 1px;
+
+}
+
+span.tag.client {
+	color: #284777;
+}
+
+span.tag.app {
+	color: #3F6CAE;
+}
